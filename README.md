@@ -13,7 +13,7 @@ MonkeyClick-UACBypass is purely a humorous prank project created just for entert
 ### Steps:
 
 1. Run the MonkeyClick-UACBypass executable.
-2. Wait for the "monkey click" prompt.
+2. Wait for the "monkey click".
 3. Perform one natural mouse click on the prompted UI.
 4. Privilege escalation occurs instantly.
 
@@ -40,7 +40,7 @@ Tested and confirmed working on:
 
 - No special software required.
 - No administrative rights initially required.
-- Just a single mouse click that must mimic typical human interaction (cannot be automated).
+- Requires just a single monkey click..
 
 ## Disclaimer
 
